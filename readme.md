@@ -5,11 +5,6 @@
 ### Project Overview
 #### This dashboard has been developed to visualize of ongoing project health across several regions in Africa. The dashboard provides data in three categories: project priority, project progress, and project status.
 
-
-### Data Sources
-#### The primary dataset used for this dashboard was sourced from the PBI Learning Project. 
-
-
 ### Tools
 #### 1. Microsoft Excel: Data Cleaning
 #### 2. Power Bi: Query, Data Analysis, Visualisation.
