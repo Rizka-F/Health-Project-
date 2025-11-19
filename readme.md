@@ -6,8 +6,8 @@
 #### This dashboard has been developed to visualize of ongoing project health across several regions in Africa. The dashboard provides data in three categories: project priority, project progress, and project status.
 
 ### Tools
-#### 1. Microsoft Excel: Data Cleaning
-#### 2. Power Bi: Query, Data Analysis, Visualisation.
+#### 1. Microsoft Excel: Data Cleaning,Query
+#### 2. Power Bi: Data Analysis, Visualisation.
 
 
 ### Results
